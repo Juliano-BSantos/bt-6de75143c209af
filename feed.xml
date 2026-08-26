@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boletim Tributário e Trabalhista</title>
+    <link>https://juliano-bsantos.github.io/bt-6de75143c209af/</link>
+    <atom:link href="https://juliano-bsantos.github.io/bt-6de75143c209af/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Reforma tributária e legislação trabalhista brasileira, todo dia às 6h. Marco (tributarista) e Beatriz (trabalhista) discutem o que mudou nas últimas 24 horas: IBS, CBS, split payment, Simples Nacional, CLT, Normas Regulamentadoras e as pautas do STF, STJ e TST.</description>
+    <language>pt-br</language>
+    <copyright>Juliano</copyright>
+    <lastBuildDate>Wed, 26 Aug 2026 13:50:12 -0300</lastBuildDate>
+    <generator>robo-tributario</generator>
+    <itunes:author>Juliano</itunes:author>
+    <itunes:summary>Reforma tributária e legislação trabalhista brasileira, todo dia às 6h. Marco (tributarista) e Beatriz (trabalhista) discutem o que mudou nas últimas 24 horas: IBS, CBS, split payment, Simples Nacional, CLT, Normas Regulamentadoras e as pautas do STF, STJ e TST.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://juliano-bsantos.github.io/bt-6de75143c209af/capa.png"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>Juliano</itunes:name>
+      <itunes:email>143360580+Juliano-BSantos@users.noreply.github.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://juliano-bsantos.github.io/bt-6de75143c209af/capa.png</url>
+      <title>Boletim Tributário e Trabalhista</title>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/</link>
+    </image>
+    <item>
+      <title>26/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- O STF retoma nesta quarta-feira o julgamento das ADIs 6399, 6415 e 6403, sobre o voto de qualidade no CARF, com placar parcial de 5 a 1 contra a Fazenda Nacional — mas placar parcial não é resultado e um pedido de vista ainda pode zerar a discussão.
+- O regime específico da LC 214/2025 reduz em 40% as alíquotas de IBS e CBS para bares, restaurantes, hotelaria, parques e agências de viagem, mas os artigos 276 e 282 vedam o crédito ao adquirente — o que encarece esses fornecedores para clientes pessoa jurídica.
+- Simulação do episódio: uma diária de R$ 1.000 custa R$ 1.159 líquidos para a empresa compradora no regime específico, contra R$ 1.000 líquidos de um fornecedor do regime regular com o mesmo preço base.
+- Regime específico e regime diferenciado não são a mesma coisa: o diferenciado reduz alíquota preservando crédito (60% para saúde e educação, 30% para profissões regulamentadas, alíquota zero para a Cesta Básica Nacional), enquanto o específico altera a mecânica de apuração e trava o crédito.
+- O cashback devolve 100% da CBS e no mínimo 20% do IBS em energia, gás de cozinha, telecomunicações e saneamento para famílias do CadÚnico com renda de até meio salário mínimo per capita, começando pela CBS sobre o consumo de janeiro de 2027 e pelo IBS só em 2029 — o que obriga o varejo a capturar CPF na venda de forma consistente.
+- Empresas privadas com 100 ou mais empregados têm até 31 de agosto para atualizar as informações do 6º Relatório de Transparência Salarial e de Critérios Remuneratórios no portal Emprega Brasil.
+- A 2ª Semana Nacional dos Precedentes Trabalhistas ocorre de 31 de agosto a 4 de setembro nos TRTs e no TST, com seminário nos dias 2 e 3 — sinal de que a provisão de contingência trabalhista precisa passar a considerar as teses vinculantes já consolidadas.
+- A NR-17, na redação da Portaria MTP 423, exige Avaliação Ergonômica Preliminar para todo posto de trabalho, inclusive o montado na casa do empregado em teletrabalho, e o artigo 75-E da CLT obriga a instrução documentada sobre prevenção de doenças no ambiente domiciliar.]]></description>
+      <itunes:summary><![CDATA[- O STF retoma nesta quarta-feira o julgamento das ADIs 6399, 6415 e 6403, sobre o voto de qualidade no CARF, com placar parcial de 5 a 1 contra a Fazenda Nacional — mas placar parcial não é resultado e um pedido de vista ainda pode zerar a discussão.
+- O regime específico da LC 214/2025 reduz em 40% as alíquotas de IBS e CBS para bares, restaurantes, hotelaria, parques e agências de viagem, mas os artigos 276 e 282 vedam o crédito ao adquirente — o que encarece esses fornecedores para clientes pessoa jurídica.
+- Simulação do episódio: uma diária de R$ 1.000 custa R$ 1.159 líquidos para a empresa compradora no regime específico, contra R$ 1.000 líquidos de um fornecedor do regime regular com o mesmo preço base.
+- Regime específico e regime diferenciado não são a mesma coisa: o diferenciado reduz alíquota preservando crédito (60% para saúde e educação, 30% para profissões regulamentadas, alíquota zero para a Cesta Básica Nacional), enquanto o específico altera a mecânica de apuração e trava o crédito.
+- O cashback devolve 100% da CBS e no mínimo 20% do IBS em energia, gás de cozinha, telecomunicações e saneamento para famílias do CadÚnico com renda de até meio salário mínimo per capita, começando pela CBS sobre o consumo de janeiro de 2027 e pelo IBS só em 2029 — o que obriga o varejo a capturar CPF na venda de forma consistente.
+- Empresas privadas com 100 ou mais empregados têm até 31 de agosto para atualizar as informações do 6º Relatório de Transparência Salarial e de Critérios Remuneratórios no portal Emprega Brasil.
+- A 2ª Semana Nacional dos Precedentes Trabalhistas ocorre de 31 de agosto a 4 de setembro nos TRTs e no TST, com seminário nos dias 2 e 3 — sinal de que a provisão de contingência trabalhista precisa passar a considerar as teses vinculantes já consolidadas.
+- A NR-17, na redação da Portaria MTP 423, exige Avaliação Ergonômica Preliminar para todo posto de trabalho, inclusive o montado na casa do empregado em teletrabalho, e o artigo 75-E da CLT obriga a instrução documentada sobre prevenção de doenças no ambiente domiciliar.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:10:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-26</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-26.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-26.mp3" length="7745686" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>25/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- A janela de opção pelo regime híbrido do Simples Nacional abre em 1º de setembro e vai até 30 de setembro de 2026, com efeitos a partir de janeiro de 2027 — quem opta tira IBS e CBS do DAS e passa a apurá-los no regime regular.
+- O prazo de desistência da opção, hoje fixado em 30 de novembro de 2026, deve ser prorrogado porque as empresas podem decidir sem conhecer a alíquota definitiva da CBS de 2027.
+- A Resolução CGIBS nº 14/2026, publicada no DOU de 31 de julho, adota alíquota de referência estimada de 27,91% (18,7% de IBS e 9,21% de CBS) apenas como parâmetro metodológico — não é a alíquota definitiva, que segue o rito da LC 214/2025 com Receita Federal, TCU e Senado.
+- Desde 3 de agosto, empresa do regime regular não emite documento fiscal eletrônico sem preencher os campos de IBS e CBS; o Ato Técnico Conjunto RFB/CGIBS nº 1/2026 flexibilizou as validações e o Ato Conjunto de 12 de agosto regulamentou o Programa Nacional de Conformidade Tributária.
+- A Resolução CGSN nº 191/2026 revogou a 189/2026 e adiou a obrigatoriedade da NFS-e nacional para ME e EPP de serviços de 1º de setembro para 1º de novembro de 2026.
+- Empresas privadas com 100 ou mais empregados têm até 31 de agosto para atualizar as informações do 6º Relatório de Transparência Salarial no Portal Emprega Brasil.
+- O TST reforçou em 24 de agosto que a adesão a PDV com cláusula expressa de quitação geral produz efeito amplo sobre reclamações posteriores, desde que amparada em norma coletiva bem redigida.
+- O STF julga em 26 de agosto o voto de qualidade no CARF (ADIs 6399, 6403 e 6415), e a 1ª Seção do STJ apreciou em 20 de agosto repetitivos tributários, entre eles o Tema 1.244 sobre PIS/Cofins-Importação, GATT e Zona Franca de Manaus.]]></description>
+      <itunes:summary><![CDATA[- A janela de opção pelo regime híbrido do Simples Nacional abre em 1º de setembro e vai até 30 de setembro de 2026, com efeitos a partir de janeiro de 2027 — quem opta tira IBS e CBS do DAS e passa a apurá-los no regime regular.
+- O prazo de desistência da opção, hoje fixado em 30 de novembro de 2026, deve ser prorrogado porque as empresas podem decidir sem conhecer a alíquota definitiva da CBS de 2027.
+- A Resolução CGIBS nº 14/2026, publicada no DOU de 31 de julho, adota alíquota de referência estimada de 27,91% (18,7% de IBS e 9,21% de CBS) apenas como parâmetro metodológico — não é a alíquota definitiva, que segue o rito da LC 214/2025 com Receita Federal, TCU e Senado.
+- Desde 3 de agosto, empresa do regime regular não emite documento fiscal eletrônico sem preencher os campos de IBS e CBS; o Ato Técnico Conjunto RFB/CGIBS nº 1/2026 flexibilizou as validações e o Ato Conjunto de 12 de agosto regulamentou o Programa Nacional de Conformidade Tributária.
+- A Resolução CGSN nº 191/2026 revogou a 189/2026 e adiou a obrigatoriedade da NFS-e nacional para ME e EPP de serviços de 1º de setembro para 1º de novembro de 2026.
+- Empresas privadas com 100 ou mais empregados têm até 31 de agosto para atualizar as informações do 6º Relatório de Transparência Salarial no Portal Emprega Brasil.
+- O TST reforçou em 24 de agosto que a adesão a PDV com cláusula expressa de quitação geral produz efeito amplo sobre reclamações posteriores, desde que amparada em norma coletiva bem redigida.
+- O STF julga em 26 de agosto o voto de qualidade no CARF (ADIs 6399, 6403 e 6415), e a 1ª Seção do STJ apreciou em 20 de agosto repetitivos tributários, entre eles o Tema 1.244 sobre PIS/Cofins-Importação, GATT e Zona Franca de Manaus.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-25</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-25.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-25.mp3" length="8331190" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>20/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- A Resolução CGIBS nº 14, de 29/07/2026, publicada em 31/07, projeta alíquota de referência combinada de 27,91% para IBS e CBS, composta de 18,70 pontos percentuais de IBS e 9,21 pontos percentuais de CBS — acima do teto de 26,5% previsto na LC 214/2025.
+- O percentual não é alíquota fixada: tem finalidade metodológica e serve de parâmetro orçamentário para estimar arrecadação na implantação; a alíquota de referência definitiva cabe ao Senado Federal, por resolução, com base em cálculo do TCU.
+- A leitura prática para o escritório é abandonar o número único: projeções de 2027 devem rodar em cenários (teto legal, projeção do Comitê e um ponto acima), porque fechar a conta exigirá ampliar base, cortar benefício ou revisar o teto.
+- A rejeição automática de documentos fiscais sem IBS e CBS foi adiada, mas o adiamento atingiu apenas as validações — a obrigação de informar permanece integralmente, com penalidade por descumprimento de obrigação acessória.
+- O novo cronograma é escalonado: a fase iniciada em 03/08/2026 alcança NF-e, NFC-e, CT-e e CT-e OS, NF3e e NFS-e de exploração de via; em 01/10/2026 entram a NFS-e de serviços em geral sujeitos ao ISS e a NFCom; em 01/01/2027 entram Simples Nacional, importação e monofásico de combustíveis.
+- O Ato Conjunto RFB/CGIBS nº 5, de 12/08/2026, publicado em 13/08 e com vigência imediata, regulamentou o Programa Nacional de Conformidade Tributária, com adesão automática de quem cumpre as obrigações acessórias e lógica de orientação, monitoramento e autorregularização.
+- A Primeira Seção do STJ julga hoje, 20/08, os Temas 1.372 (Difal na base do PIS/Cofins), 1.412 (bonificações e descontos) e 1.244 (PIS/Cofins-Importação e Zona Franca de Manaus).
+- No campo trabalhista, o Tema 1.389 do STF definirá os limites da contratação de trabalhador como pessoa jurídica, com processos suspensos desde abril de 2025 e estudo da FGV estimando perda de arrecadação entre R$ 89 bilhões e R$ 144 bilhões no período de 2018 a 2023.
+- O eSocial de 2026 extinguiu a DIRF, substituída pelos eventos mensais S-1210 e S-2501, adotou o CPF como identificador único das obrigações trabalhistas e previdenciárias e endureceu as validações dos eventos de SST S-2210, S-2220 e S-2240.
+- Passou a ser obrigatório informar no portal os processos trabalhistas transitados em julgado, com natureza da ação, número, valores de honorários e condenação e status processual — o que expõe divergências entre o passivo declarado e o provisionado.]]></description>
+      <itunes:summary><![CDATA[- A Resolução CGIBS nº 14, de 29/07/2026, publicada em 31/07, projeta alíquota de referência combinada de 27,91% para IBS e CBS, composta de 18,70 pontos percentuais de IBS e 9,21 pontos percentuais de CBS — acima do teto de 26,5% previsto na LC 214/2025.
+- O percentual não é alíquota fixada: tem finalidade metodológica e serve de parâmetro orçamentário para estimar arrecadação na implantação; a alíquota de referência definitiva cabe ao Senado Federal, por resolução, com base em cálculo do TCU.
+- A leitura prática para o escritório é abandonar o número único: projeções de 2027 devem rodar em cenários (teto legal, projeção do Comitê e um ponto acima), porque fechar a conta exigirá ampliar base, cortar benefício ou revisar o teto.
+- A rejeição automática de documentos fiscais sem IBS e CBS foi adiada, mas o adiamento atingiu apenas as validações — a obrigação de informar permanece integralmente, com penalidade por descumprimento de obrigação acessória.
+- O novo cronograma é escalonado: a fase iniciada em 03/08/2026 alcança NF-e, NFC-e, CT-e e CT-e OS, NF3e e NFS-e de exploração de via; em 01/10/2026 entram a NFS-e de serviços em geral sujeitos ao ISS e a NFCom; em 01/01/2027 entram Simples Nacional, importação e monofásico de combustíveis.
+- O Ato Conjunto RFB/CGIBS nº 5, de 12/08/2026, publicado em 13/08 e com vigência imediata, regulamentou o Programa Nacional de Conformidade Tributária, com adesão automática de quem cumpre as obrigações acessórias e lógica de orientação, monitoramento e autorregularização.
+- A Primeira Seção do STJ julga hoje, 20/08, os Temas 1.372 (Difal na base do PIS/Cofins), 1.412 (bonificações e descontos) e 1.244 (PIS/Cofins-Importação e Zona Franca de Manaus).
+- No campo trabalhista, o Tema 1.389 do STF definirá os limites da contratação de trabalhador como pessoa jurídica, com processos suspensos desde abril de 2025 e estudo da FGV estimando perda de arrecadação entre R$ 89 bilhões e R$ 144 bilhões no período de 2018 a 2023.
+- O eSocial de 2026 extinguiu a DIRF, substituída pelos eventos mensais S-1210 e S-2501, adotou o CPF como identificador único das obrigações trabalhistas e previdenciárias e endureceu as validações dos eventos de SST S-2210, S-2220 e S-2240.
+- Passou a ser obrigatório informar no portal os processos trabalhistas transitados em julgado, com natureza da ação, número, valores de honorários e condenação e status processual — o que expõe divergências entre o passivo declarado e o provisionado.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-20</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-20.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-20.mp3" length="8318806" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>19/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- O crédito de IBS e CBS do adquirente do regime regular só se apropria quando ocorre a extinção do débito da operação, e não na compra nem no pagamento ao fornecedor — a LC 214/2025 converteu em regra geral a autorização constitucional para condicionar o crédito ao recolhimento da etapa anterior, com detalhamento no Decreto 12.955/2026.
+- Na prática, o crédito do comprador passou a depender da adimplência do vendedor, o que transforma a análise de fornecedor em defesa de caixa e joga o crédito perdido direto na formação de preço de quem opera com cadeia longa.
+- A regra de creditamento é ampla — todo valor destacado em documento fiscal regular gera crédito, desde que o bem ou serviço seja empregado em atividade tributada —, mas depende de três condicionantes cumulativas: documento fiscal regular, atividade tributada e débito extinto.
+- O split payment funciona como resposta ao crédito condicionado: separado o tributo na liquidação, o débito se extingue e o crédito do adquirente nasce no mesmo momento.
+- Indicadores da Receita Federal mostram que, em junho, 75% das notas emitidas por contribuintes de lucro real e lucro presumido já traziam preenchidos os campos de IBS e CBS.
+- A medida provisória que regulamenta o Imposto Seletivo deve ser enviada ainda na segunda quinzena de agosto, com vigência mantida para 1º de janeiro de 2027, mas as alíquotas seguem indefinidas — o PLP 42/2026 propõe limitá-las entre 0% e 5%, sem que isso seja regra vigente.
+- A Primeira Seção do STJ julga em 20 de agosto três repetitivos: Tema 1.372 (Difal do ICMS na base do PIS/Cofins, rel. min. Gurgel de Faria), Tema 1.412 (bonificações e descontos na base do PIS/Cofins, com divergência entre a 1ª e a 2ª Turma) e Tema 1.244 (PIS/Cofins-Importação em operações com países signatários do GATT destinadas à Zona Franca de Manaus).
+- No campo trabalhista, a Portaria MTE nº 1.450, de 10/08/2026, instituiu a CONESST, que exerce governança sobre a Comissão de Prevenção e Enfrentamento do Assédio e da Discriminação, sinalizando para onde a fiscalização de segurança e saúde vai olhar.
+- As multas de SST pelo eSocial, reajustadas pela Portaria MTE nº 1.240/2025, vão de R$ 443 a R$ 44.396 por trabalhador exposto à irregularidade — o cálculo por trabalhador, e não por empresa, é o que muda a ordem de grandeza.
+- Desde 02/01/2026 o registro de empregado e as anotações em CTPS são feitos exclusivamente pelo eSocial, com registro obrigatório até o dia imediatamente anterior ao início das atividades.]]></description>
+      <itunes:summary><![CDATA[- O crédito de IBS e CBS do adquirente do regime regular só se apropria quando ocorre a extinção do débito da operação, e não na compra nem no pagamento ao fornecedor — a LC 214/2025 converteu em regra geral a autorização constitucional para condicionar o crédito ao recolhimento da etapa anterior, com detalhamento no Decreto 12.955/2026.
+- Na prática, o crédito do comprador passou a depender da adimplência do vendedor, o que transforma a análise de fornecedor em defesa de caixa e joga o crédito perdido direto na formação de preço de quem opera com cadeia longa.
+- A regra de creditamento é ampla — todo valor destacado em documento fiscal regular gera crédito, desde que o bem ou serviço seja empregado em atividade tributada —, mas depende de três condicionantes cumulativas: documento fiscal regular, atividade tributada e débito extinto.
+- O split payment funciona como resposta ao crédito condicionado: separado o tributo na liquidação, o débito se extingue e o crédito do adquirente nasce no mesmo momento.
+- Indicadores da Receita Federal mostram que, em junho, 75% das notas emitidas por contribuintes de lucro real e lucro presumido já traziam preenchidos os campos de IBS e CBS.
+- A medida provisória que regulamenta o Imposto Seletivo deve ser enviada ainda na segunda quinzena de agosto, com vigência mantida para 1º de janeiro de 2027, mas as alíquotas seguem indefinidas — o PLP 42/2026 propõe limitá-las entre 0% e 5%, sem que isso seja regra vigente.
+- A Primeira Seção do STJ julga em 20 de agosto três repetitivos: Tema 1.372 (Difal do ICMS na base do PIS/Cofins, rel. min. Gurgel de Faria), Tema 1.412 (bonificações e descontos na base do PIS/Cofins, com divergência entre a 1ª e a 2ª Turma) e Tema 1.244 (PIS/Cofins-Importação em operações com países signatários do GATT destinadas à Zona Franca de Manaus).
+- No campo trabalhista, a Portaria MTE nº 1.450, de 10/08/2026, instituiu a CONESST, que exerce governança sobre a Comissão de Prevenção e Enfrentamento do Assédio e da Discriminação, sinalizando para onde a fiscalização de segurança e saúde vai olhar.
+- As multas de SST pelo eSocial, reajustadas pela Portaria MTE nº 1.240/2025, vão de R$ 443 a R$ 44.396 por trabalhador exposto à irregularidade — o cálculo por trabalhador, e não por empresa, é o que muda a ordem de grandeza.
+- Desde 02/01/2026 o registro de empregado e as anotações em CTPS são feitos exclusivamente pelo eSocial, com registro obrigatório até o dia imediatamente anterior ao início das atividades.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:12:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-19</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-19.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-19.mp3" length="8735830" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>18/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- A Resolução CGSN nº 190/2026, publicada no DOU em 10 de agosto, incluiu formalmente o IBS e a CBS entre os tributos abrangidos pelo recolhimento mensal do Simples Nacional, de modo que permanecer no regime não retira automaticamente os dois novos tributos do DAS.
+- A mesma resolução desenhou o Simples híbrido e definiu que o IBS e a CBS apurados pelo regime regular ficam fora da base de receita bruta do Simples Nacional, com efeitos, na maior parte, a partir de 1º de janeiro de 2027.
+- O Comitê Gestor do Simples previu que empresas optantes poderão ter débitos de IBS e CBS quitados automaticamente no momento da liquidação financeira, pelo split payment, a partir de 2027.
+- Na primeira fase, em 2027, o split payment é opcional e restrito a operações entre contribuintes, alcançando apenas os meios de pagamento do escopo inicial; o efeito relevante não é aumento de carga, e sim antecipação da saída de caixa.
+- Desde 3 de agosto de 2026 o preenchimento dos campos de IBS e CBS é obrigatório no regime regular com alíquota-teste de 0,9% de CBS e 0,1% de IBS; o valor é informativo, mas o descumprimento da obrigação acessória tem penalidade.
+- O Senado concluiu em 12 de agosto, por 69 votos e de forma unânime, a votação do PLP 124/2022, que altera o CTN para tratar de solução de controvérsias, consensualidade e processo administrativo tributário; o texto segue para sanção.
+- O STJ julga em 20 de agosto o Tema repetitivo 1.372, sobre o Difal do ICMS na base do PIS e da Cofins, e o STF deve analisar em 26 de agosto o voto de qualidade no CARF.
+- No campo trabalhista, o TST reafirmou jurisprudência em 69 temas em agosto, levando a cerca de 302 o total de teses vinculantes, com destaque para horas extras não limitadas ao período da prova, presunção apenas relativa das anotações em CTPS e pausas de 10 minutos a cada 90 minutos para o trabalhador rural.]]></description>
+      <itunes:summary><![CDATA[- A Resolução CGSN nº 190/2026, publicada no DOU em 10 de agosto, incluiu formalmente o IBS e a CBS entre os tributos abrangidos pelo recolhimento mensal do Simples Nacional, de modo que permanecer no regime não retira automaticamente os dois novos tributos do DAS.
+- A mesma resolução desenhou o Simples híbrido e definiu que o IBS e a CBS apurados pelo regime regular ficam fora da base de receita bruta do Simples Nacional, com efeitos, na maior parte, a partir de 1º de janeiro de 2027.
+- O Comitê Gestor do Simples previu que empresas optantes poderão ter débitos de IBS e CBS quitados automaticamente no momento da liquidação financeira, pelo split payment, a partir de 2027.
+- Na primeira fase, em 2027, o split payment é opcional e restrito a operações entre contribuintes, alcançando apenas os meios de pagamento do escopo inicial; o efeito relevante não é aumento de carga, e sim antecipação da saída de caixa.
+- Desde 3 de agosto de 2026 o preenchimento dos campos de IBS e CBS é obrigatório no regime regular com alíquota-teste de 0,9% de CBS e 0,1% de IBS; o valor é informativo, mas o descumprimento da obrigação acessória tem penalidade.
+- O Senado concluiu em 12 de agosto, por 69 votos e de forma unânime, a votação do PLP 124/2022, que altera o CTN para tratar de solução de controvérsias, consensualidade e processo administrativo tributário; o texto segue para sanção.
+- O STJ julga em 20 de agosto o Tema repetitivo 1.372, sobre o Difal do ICMS na base do PIS e da Cofins, e o STF deve analisar em 26 de agosto o voto de qualidade no CARF.
+- No campo trabalhista, o TST reafirmou jurisprudência em 69 temas em agosto, levando a cerca de 302 o total de teses vinculantes, com destaque para horas extras não limitadas ao período da prova, presunção apenas relativa das anotações em CTPS e pausas de 10 minutos a cada 90 minutos para o trabalhador rural.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-18</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-18.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-18.mp3" length="8427670" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>17/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- Receita Federal e Comitê Gestor do IBS assinaram em 12 de agosto o Ato Conjunto RFB/CGIBS nº 5/2026, que regulamenta o Programa Nacional de Conformidade Tributária para o preenchimento dos campos de IBS e CBS nos documentos fiscais eletrônicos em 2026.
+- O programa não é anistia: exige evolução contínua na emissão correta, resposta às intimações e correção das inconsistências até 31 de dezembro de 2026, e permite que a Receita compartilhe as comunicações com o contador indicado mediante autorização expressa do contribuinte.
+- O eixo da reforma do dia é o crédito condicionado: pelo artigo 47 da LC 214/2025, o adquirente só se apropria do crédito de IBS e CBS depois da extinção do débito da operação, o que muda a lógica de crédito que vigora hoje no PIS e na Cofins.
+- O split payment é a resposta do sistema a esse condicionamento, com primeira fase prevista para 2027, restrita a operações entre empresas e opcional, alcançando TED, Pix, boleto e transferências internas.
+- O impacto do split payment é de fluxo de caixa: o fornecedor deixa de girar o tributo até o vencimento e passa a recolhê-lo na liquidação da venda, o que atinge com mais força quem vende a prazo.
+- A Resolução CGSN nº 190/2026 prevê extinção de IBS e CBS do optante do Simples por split payment a partir de 2027 e reduz multas em 60% para o Simples e até 90% para o MEI, desde que a regularização e o pagamento ocorram em 30 dias da notificação.
+- No trabalhista, a NR-1 com fatores de risco psicossocial está sob fiscalização punitiva desde 26 de maio de 2026, e o PGR precisa trazer metodologia, avaliação e plano de ação com responsável e prazo, sob pena de virar prova contra a empresa.
+- O MTE notificou cerca de 165 mil empregadores no Programa Crédito do Trabalhador, e as parcelas de consignado descontadas e não repassadas passam a ser recolhidas por guia do FGTS Digital desde a competência de fevereiro de 2026.]]></description>
+      <itunes:summary><![CDATA[- Receita Federal e Comitê Gestor do IBS assinaram em 12 de agosto o Ato Conjunto RFB/CGIBS nº 5/2026, que regulamenta o Programa Nacional de Conformidade Tributária para o preenchimento dos campos de IBS e CBS nos documentos fiscais eletrônicos em 2026.
+- O programa não é anistia: exige evolução contínua na emissão correta, resposta às intimações e correção das inconsistências até 31 de dezembro de 2026, e permite que a Receita compartilhe as comunicações com o contador indicado mediante autorização expressa do contribuinte.
+- O eixo da reforma do dia é o crédito condicionado: pelo artigo 47 da LC 214/2025, o adquirente só se apropria do crédito de IBS e CBS depois da extinção do débito da operação, o que muda a lógica de crédito que vigora hoje no PIS e na Cofins.
+- O split payment é a resposta do sistema a esse condicionamento, com primeira fase prevista para 2027, restrita a operações entre empresas e opcional, alcançando TED, Pix, boleto e transferências internas.
+- O impacto do split payment é de fluxo de caixa: o fornecedor deixa de girar o tributo até o vencimento e passa a recolhê-lo na liquidação da venda, o que atinge com mais força quem vende a prazo.
+- A Resolução CGSN nº 190/2026 prevê extinção de IBS e CBS do optante do Simples por split payment a partir de 2027 e reduz multas em 60% para o Simples e até 90% para o MEI, desde que a regularização e o pagamento ocorram em 30 dias da notificação.
+- No trabalhista, a NR-1 com fatores de risco psicossocial está sob fiscalização punitiva desde 26 de maio de 2026, e o PGR precisa trazer metodologia, avaliação e plano de ação com responsável e prazo, sob pena de virar prova contra a empresa.
+- O MTE notificou cerca de 165 mil empregadores no Programa Crédito do Trabalhador, e as parcelas de consignado descontadas e não repassadas passam a ser recolhidas por guia do FGTS Digital desde a competência de fevereiro de 2026.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-17</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-17.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-17.mp3" length="8330902" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>13/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- O Comitê Gestor do Simples Nacional publicou as Resoluções CGSN nº 190 e nº 191, de 2026, incorporando o IBS e a CBS ao regime e alterando as regras de arrecadação, fiscalização e contencioso do Simples, com efeitos, em regra, a partir de 1º de janeiro de 2027.
+- A janela de opção mudou de janeiro para setembro: tanto o ingresso no Simples Nacional quanto a opção pelo recolhimento de IBS e CBS pelo regime regular devem ser formalizados entre 1º e 30 de setembro de 2026, com cancelamento possível até 30 de novembro.
+- O chamado Simples Nacional híbrido permite manter IRPJ, CSLL, CPP e IPI em guia única e apurar IBS e CBS pelas regras próprias, fora do DAS, transferindo crédito integral ao adquirente — decisão que depende do perfil da carteira de clientes da empresa.
+- As resoluções ainda extinguem a Defis como declaração separada (as informações passam ao PGDAS-D, entre janeiro e março), estendem o sublimite de R$ 3,6 milhões ao IBS, ampliam a emissão de documento fiscal pelo MEI e vinculam o reconhecimento de receita à emissão do documento fiscal.
+- O Senado aprovou em 12 de agosto, por 61 votos a 2, o PLP 114/2026, que autoriza a União a reduzir a tributação federal sobre diesel, biodiesel, gasolina, etanol e querosene de aviação, com gatilho que zera a alíquota do etanol se a tributação da gasolina cair 30% ou mais; o texto seguiu para sanção.
+- O STJ julga em 20 de agosto sete recursos repetitivos, entre eles a incidência de PIS/Cofins-Importação em operações de países signatários do GATT destinadas à Zona Franca de Manaus e o Tema 1228, sobre salário-educação de atividade notarial e de registro.
+- O STF retoma em 26 de agosto o julgamento das ADIs 6399, 6403 e 6415, sobre o fim do voto de qualidade pró-fisco no CARF, com placar parcial de 5 a 1 contra a Fazenda Nacional.
+- No trabalhista, a fiscalização de riscos psicossociais da NR-1 está em vigor desde 26 de maio de 2026, sem exceção por porte de empresa, com multas por item entre R$ 2.396,35 e R$ 6.708,08 e atuação paralela do MPT por dano moral coletivo.]]></description>
+      <itunes:summary><![CDATA[- O Comitê Gestor do Simples Nacional publicou as Resoluções CGSN nº 190 e nº 191, de 2026, incorporando o IBS e a CBS ao regime e alterando as regras de arrecadação, fiscalização e contencioso do Simples, com efeitos, em regra, a partir de 1º de janeiro de 2027.
+- A janela de opção mudou de janeiro para setembro: tanto o ingresso no Simples Nacional quanto a opção pelo recolhimento de IBS e CBS pelo regime regular devem ser formalizados entre 1º e 30 de setembro de 2026, com cancelamento possível até 30 de novembro.
+- O chamado Simples Nacional híbrido permite manter IRPJ, CSLL, CPP e IPI em guia única e apurar IBS e CBS pelas regras próprias, fora do DAS, transferindo crédito integral ao adquirente — decisão que depende do perfil da carteira de clientes da empresa.
+- As resoluções ainda extinguem a Defis como declaração separada (as informações passam ao PGDAS-D, entre janeiro e março), estendem o sublimite de R$ 3,6 milhões ao IBS, ampliam a emissão de documento fiscal pelo MEI e vinculam o reconhecimento de receita à emissão do documento fiscal.
+- O Senado aprovou em 12 de agosto, por 61 votos a 2, o PLP 114/2026, que autoriza a União a reduzir a tributação federal sobre diesel, biodiesel, gasolina, etanol e querosene de aviação, com gatilho que zera a alíquota do etanol se a tributação da gasolina cair 30% ou mais; o texto seguiu para sanção.
+- O STJ julga em 20 de agosto sete recursos repetitivos, entre eles a incidência de PIS/Cofins-Importação em operações de países signatários do GATT destinadas à Zona Franca de Manaus e o Tema 1228, sobre salário-educação de atividade notarial e de registro.
+- O STF retoma em 26 de agosto o julgamento das ADIs 6399, 6403 e 6415, sobre o fim do voto de qualidade pró-fisco no CARF, com placar parcial de 5 a 1 contra a Fazenda Nacional.
+- No trabalhista, a fiscalização de riscos psicossociais da NR-1 está em vigor desde 26 de maio de 2026, sem exceção por porte de empresa, com multas por item entre R$ 2.396,35 e R$ 6.708,08 e atuação paralela do MPT por dano moral coletivo.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-13</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-13.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-13.mp3" length="8634454" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>10/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- A decisão mais urgente da reforma para a carteira do escritório não é a nota fiscal: é a escolha entre regime único e regime híbrido do Simples Nacional, que precisa estar tomada em setembro de 2026 para valer no primeiro semestre de 2027.
+- No regime híbrido previsto na Lei Complementar 214/2025 a empresa do Simples apura IBS e CBS fora do DAS e transfere crédito integral ao adquirente do regime regular — o que é decisivo para quem vende B2B e irrelevante para quem vende a consumidor final.
+- O Ato Conjunto RFB/CGIBS nº 4, de 30 de julho de 2026, fixou o cronograma em três lotes para o destaque de IBS e CBS: primeiro lote em 3 de agosto, NFS-e sujeita ao ISS em 1º de outubro, terceira onda em 1º de dezembro e Simples Nacional em 1º de janeiro de 2027, tudo com a alíquota-teste de 0,9% de CBS e 0,1% de IBS.
+- O split payment terá sua plataforma pública documentada pelo Ato Conjunto RFB/CGIBS nº 2, de 27 de maio de 2026, e começa em 2027 de forma opcional e restrita a operações entre empresas — é o maior choque de fluxo de caixa da reforma, porque o tributo deixa de passar pelo caixa da empresa.
+- O cashback devolve parte do IBS e da CBS a famílias do CadÚnico com renda de até meio salário mínimo por pessoa, com início em 2027 na CBS e 2029 no IBS, pagamento trimestral e devolução integral em gás de cozinha, energia, água, esgoto e telecomunicações.
+- O Imposto Seletivo começa em 1º de janeiro de 2027, mas as alíquotas ainda não foram definidas: o projeto que fixa os percentuais só será enviado ao Congresso no segundo semestre, alcançando veículos, embarcações, aeronaves, fumo, bebidas alcoólicas e bebidas açucaradas.
+- Mesmo com as Leis Complementares 214/2025 e 227/2026 e os regulamentos publicados, levantamento recente aponta cerca de 22 pontos da reforma ainda sem regulamentação, com destaque para split payment e o conceito de valor de mercado.
+- No trabalhista, a suspensão das multas da NR-1 sobre riscos psicossociais concedida pelo ministro André Mendonça no STF vence em 23 de setembro de 2026 — a obrigação de mapear e gerenciar os riscos no PGR nunca foi suspensa e vale desde 26 de maio.]]></description>
+      <itunes:summary><![CDATA[- A decisão mais urgente da reforma para a carteira do escritório não é a nota fiscal: é a escolha entre regime único e regime híbrido do Simples Nacional, que precisa estar tomada em setembro de 2026 para valer no primeiro semestre de 2027.
+- No regime híbrido previsto na Lei Complementar 214/2025 a empresa do Simples apura IBS e CBS fora do DAS e transfere crédito integral ao adquirente do regime regular — o que é decisivo para quem vende B2B e irrelevante para quem vende a consumidor final.
+- O Ato Conjunto RFB/CGIBS nº 4, de 30 de julho de 2026, fixou o cronograma em três lotes para o destaque de IBS e CBS: primeiro lote em 3 de agosto, NFS-e sujeita ao ISS em 1º de outubro, terceira onda em 1º de dezembro e Simples Nacional em 1º de janeiro de 2027, tudo com a alíquota-teste de 0,9% de CBS e 0,1% de IBS.
+- O split payment terá sua plataforma pública documentada pelo Ato Conjunto RFB/CGIBS nº 2, de 27 de maio de 2026, e começa em 2027 de forma opcional e restrita a operações entre empresas — é o maior choque de fluxo de caixa da reforma, porque o tributo deixa de passar pelo caixa da empresa.
+- O cashback devolve parte do IBS e da CBS a famílias do CadÚnico com renda de até meio salário mínimo por pessoa, com início em 2027 na CBS e 2029 no IBS, pagamento trimestral e devolução integral em gás de cozinha, energia, água, esgoto e telecomunicações.
+- O Imposto Seletivo começa em 1º de janeiro de 2027, mas as alíquotas ainda não foram definidas: o projeto que fixa os percentuais só será enviado ao Congresso no segundo semestre, alcançando veículos, embarcações, aeronaves, fumo, bebidas alcoólicas e bebidas açucaradas.
+- Mesmo com as Leis Complementares 214/2025 e 227/2026 e os regulamentos publicados, levantamento recente aponta cerca de 22 pontos da reforma ainda sem regulamentação, com destaque para split payment e o conceito de valor de mercado.
+- No trabalhista, a suspensão das multas da NR-1 sobre riscos psicossociais concedida pelo ministro André Mendonça no STF vence em 23 de setembro de 2026 — a obrigação de mapear e gerenciar os riscos no PGR nunca foi suspensa e vale desde 26 de maio.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-10</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-10.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-10.mp3" length="8055862" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>07/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- Entrou em vigor em 3 de agosto de 2026 a primeira das quatro fases de obrigatoriedade do destaque de IBS e CBS nos documentos fiscais eletrônicos, alcançando NF-e, CT-e e MDF-e; o cronograma foi consolidado pelo Ato Conjunto RFB/CGIBS nº 4/2026, de 31 de julho.
+- As demais fases caem em 1º de outubro de 2026 para NFS-e e NFCom, 1º de dezembro para plataformas digitais e 1º de janeiro de 2027 para Simples Nacional e MEI — mas quem é do Simples e vende para tomador do regime regular já sente a pressão comercial hoje.
+- Em 2026 não há recolhimento efetivo: a CBS sai a 0,9% e o IBS a 0,1%, e o art. 348, §1º do regulamento dispensa o recolhimento de quem cumprir corretamente as obrigações acessórias, com compensação via redução de PIS/Cofins caso haja pagamento — o risco do ano é acessório, não principal.
+- Durante 2026 a CBS e o IBS integram a base de cálculo do ICMS e do ISS pela regra de transição, com tendência de inversão a partir de 2027, o que torna a parametrização do emissor um risco de erro em imposto efetivamente devido.
+- A Receita Federal e o Comitê Gestor do IBS publicaram em junho o Manual de Integração e a documentação Swagger da Plataforma Pública de Split Payment; a implantação efetiva começa em 2027, em fase inicial voluntária e concentrada em operações B2B via Pix e débito.
+- A fiscalização punitiva da NR-1 quanto a riscos psicossociais está valendo desde 26 de maio de 2026: sem inventário, questionário, plano de ação e evidência no PGR, o afastamento por transtorno mental caminha para nexo causal, estabilidade acidentária, FGTS durante o afastamento e dano moral.
+- O TST fixou em sessão de agosto 21 novas teses vinculantes, entre elas o depósito em conta vinculada dos valores de FGTS e multa pleiteados em juízo e a recepção do art. 384 da CLT pela Constituição de 1988, reabrindo passivo de horas extras em contratos anteriores à Lei 13.467/2017.
+- A Primeira Seção do STJ retoma a pauta tributária em 20 de agosto com sete recursos repetitivos, com destaque para o Tema 1228, sobre a contribuição ao salário-educação devida por pessoa física em atividade notarial e de registro.]]></description>
+      <itunes:summary><![CDATA[- Entrou em vigor em 3 de agosto de 2026 a primeira das quatro fases de obrigatoriedade do destaque de IBS e CBS nos documentos fiscais eletrônicos, alcançando NF-e, CT-e e MDF-e; o cronograma foi consolidado pelo Ato Conjunto RFB/CGIBS nº 4/2026, de 31 de julho.
+- As demais fases caem em 1º de outubro de 2026 para NFS-e e NFCom, 1º de dezembro para plataformas digitais e 1º de janeiro de 2027 para Simples Nacional e MEI — mas quem é do Simples e vende para tomador do regime regular já sente a pressão comercial hoje.
+- Em 2026 não há recolhimento efetivo: a CBS sai a 0,9% e o IBS a 0,1%, e o art. 348, §1º do regulamento dispensa o recolhimento de quem cumprir corretamente as obrigações acessórias, com compensação via redução de PIS/Cofins caso haja pagamento — o risco do ano é acessório, não principal.
+- Durante 2026 a CBS e o IBS integram a base de cálculo do ICMS e do ISS pela regra de transição, com tendência de inversão a partir de 2027, o que torna a parametrização do emissor um risco de erro em imposto efetivamente devido.
+- A Receita Federal e o Comitê Gestor do IBS publicaram em junho o Manual de Integração e a documentação Swagger da Plataforma Pública de Split Payment; a implantação efetiva começa em 2027, em fase inicial voluntária e concentrada em operações B2B via Pix e débito.
+- A fiscalização punitiva da NR-1 quanto a riscos psicossociais está valendo desde 26 de maio de 2026: sem inventário, questionário, plano de ação e evidência no PGR, o afastamento por transtorno mental caminha para nexo causal, estabilidade acidentária, FGTS durante o afastamento e dano moral.
+- O TST fixou em sessão de agosto 21 novas teses vinculantes, entre elas o depósito em conta vinculada dos valores de FGTS e multa pleiteados em juízo e a recepção do art. 384 da CLT pela Constituição de 1988, reabrindo passivo de horas extras em contratos anteriores à Lei 13.467/2017.
+- A Primeira Seção do STJ retoma a pauta tributária em 20 de agosto com sete recursos repetitivos, com destaque para o Tema 1228, sobre a contribuição ao salário-educação devida por pessoa física em atividade notarial e de registro.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-07</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-07.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-07.mp3" length="7989046" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>06/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- O Ato Conjunto RFB/CGIBS nº 4, de 30 de julho de 2026, publicado no DOU de 31/07, substituiu o marco único de 3 de agosto por um cronograma escalonado por tipo de documento fiscal eletrônico: NF-e e NFC-e já valem desde 3 de agosto, NFCom passa a 1º de outubro, NFS-e a 1º de dezembro e um resíduo de documentos a 1º de janeiro de 2027.
+- Receita Federal e Comitê Gestor do IBS flexibilizaram a validação: a ausência dos campos de IBS e CBS não gera mais rejeição do documento fiscal, mas a obrigação legal de informar permanece — caiu a barreira sistêmica, não o dever.
+- A flexibilização alcança NF-e, NFC-e, CT-e, CT-e OS, GTV-e, BP-e, NF3e e NFCom, atingindo praticamente todo o universo de transporte e utilidades.
+- Em 2026 a fase é de teste, com alíquota de 0,1% de IBS e 0,9% de CBS, sem recolhimento efetivo e sem split payment ligado; optantes pelo Simples Nacional seguem dispensados do preenchimento neste ano.
+- O TST atualizou os limites de depósito recursal pelo Ato SEGJUD.GP nº 381/2026, com vigência desde 1º de agosto: R$ 14.411,57 para recurso ordinário e R$ 28.823,14 para recurso de revista, embargos e recurso em ação rescisória, corrigidos pelo INPC/IBGE de julho de 2025 a junho de 2026.
+- A obrigação de gerir riscos psicossociais na NR-1, prevista na Portaria MTE nº 1.419/2024 e vigente desde 26 de maio de 2026, continua valendo: o STF, nas ADPFs 1316 e 1333, suspendeu por 90 dias apenas as multas e sanções, e essa janela se fecha por volta do fim de setembro.
+- O plenário do STF deve analisar em 26 de agosto a regra do voto de qualidade no CARF, o que recomenda mapear desde já quais autos de infração da carteira foram decididos por esse critério.
+- Hoje, 6 de agosto, é o quinto dia útil do mês e prazo final para o pagamento da folha de julho, nos termos do parágrafo único do art. 459 da CLT, com salário mínimo de R$ 1.621,00.]]></description>
+      <itunes:summary><![CDATA[- O Ato Conjunto RFB/CGIBS nº 4, de 30 de julho de 2026, publicado no DOU de 31/07, substituiu o marco único de 3 de agosto por um cronograma escalonado por tipo de documento fiscal eletrônico: NF-e e NFC-e já valem desde 3 de agosto, NFCom passa a 1º de outubro, NFS-e a 1º de dezembro e um resíduo de documentos a 1º de janeiro de 2027.
+- Receita Federal e Comitê Gestor do IBS flexibilizaram a validação: a ausência dos campos de IBS e CBS não gera mais rejeição do documento fiscal, mas a obrigação legal de informar permanece — caiu a barreira sistêmica, não o dever.
+- A flexibilização alcança NF-e, NFC-e, CT-e, CT-e OS, GTV-e, BP-e, NF3e e NFCom, atingindo praticamente todo o universo de transporte e utilidades.
+- Em 2026 a fase é de teste, com alíquota de 0,1% de IBS e 0,9% de CBS, sem recolhimento efetivo e sem split payment ligado; optantes pelo Simples Nacional seguem dispensados do preenchimento neste ano.
+- O TST atualizou os limites de depósito recursal pelo Ato SEGJUD.GP nº 381/2026, com vigência desde 1º de agosto: R$ 14.411,57 para recurso ordinário e R$ 28.823,14 para recurso de revista, embargos e recurso em ação rescisória, corrigidos pelo INPC/IBGE de julho de 2025 a junho de 2026.
+- A obrigação de gerir riscos psicossociais na NR-1, prevista na Portaria MTE nº 1.419/2024 e vigente desde 26 de maio de 2026, continua valendo: o STF, nas ADPFs 1316 e 1333, suspendeu por 90 dias apenas as multas e sanções, e essa janela se fecha por volta do fim de setembro.
+- O plenário do STF deve analisar em 26 de agosto a regra do voto de qualidade no CARF, o que recomenda mapear desde já quais autos de infração da carteira foram decididos por esse critério.
+- Hoje, 6 de agosto, é o quinto dia útil do mês e prazo final para o pagamento da folha de julho, nos termos do parágrafo único do art. 459 da CLT, com salário mínimo de R$ 1.621,00.]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:11:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-06</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-06.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-06.mp3" length="8095318" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>05/08/2026 - Boletim Tributario e Trabalhista</title>
+      <description><![CDATA[- Receita Federal e Comitê Gestor do IBS suspenderam a rejeição de documentos fiscais eletrônicos sem os campos de IBS/CBS. O marco de 03/08 caiu — NF-e, NFC-e e demais documentos não serão rejeitados pela ausência dessas informações.
+- A obrigação não acabou, só a rejeição. Resolução do CGIBS fixa que o prazo de obrigatoriedade não pode ultrapassar 1º/01/2027, com cronograma escalonado em lotes.
+- Alíquota-teste de 2026: 0,1% de IBS + 0,9% de CBS (1% total) sobre o valor do bem ou serviço. Finalidade é calibrar sistema, não arrecadar.
+- Simples Nacional e MEI estão fora da exigência em 2026 — mas precisam decidir ainda este ano entre regime unificado e híbrido, por causa do split payment que entra em 2027.
+- Split payment (2027): separa o tributo automaticamente na transação. Quem vende para pessoa física tende a ficar no unificado; quem vende para empresa provavelmente migra para o híbrido e perde capital de giro.
+- NR-1 / riscos psicossociais: fase educativa encerrada em 26/05/2026. Fiscalização já é punitiva. Auditor exige metodologia, medição, plano de ação e reavaliação — não basta parágrafo no PGR. Setores na mira do MPT: teleatendimento, saúde, bancos e TI.
+- Outras mudanças trabalhistas de 2026: licença-paternidade de 20 dias (vigor desde março); trabalho em feriado exige convenção coletiva + lei municipal; NR-17 obriga orientação ergonômica formal no teletrabalho; Lei 15.455/2026 (trabalhadores resgatados).
+- STF em 26/08: julgamento do voto de qualidade no CARF (ADIs 6399, 6415 e 6403). Também na pauta de agosto: isenção a PCDs na reforma tributária e vínculo de trabalho em plataformas (uberização).]]></description>
+      <itunes:summary><![CDATA[- Receita Federal e Comitê Gestor do IBS suspenderam a rejeição de documentos fiscais eletrônicos sem os campos de IBS/CBS. O marco de 03/08 caiu — NF-e, NFC-e e demais documentos não serão rejeitados pela ausência dessas informações.
+- A obrigação não acabou, só a rejeição. Resolução do CGIBS fixa que o prazo de obrigatoriedade não pode ultrapassar 1º/01/2027, com cronograma escalonado em lotes.
+- Alíquota-teste de 2026: 0,1% de IBS + 0,9% de CBS (1% total) sobre o valor do bem ou serviço. Finalidade é calibrar sistema, não arrecadar.
+- Simples Nacional e MEI estão fora da exigência em 2026 — mas precisam decidir ainda este ano entre regime unificado e híbrido, por causa do split payment que entra em 2027.
+- Split payment (2027): separa o tributo automaticamente na transação. Quem vende para pessoa física tende a ficar no unificado; quem vende para empresa provavelmente migra para o híbrido e perde capital de giro.
+- NR-1 / riscos psicossociais: fase educativa encerrada em 26/05/2026. Fiscalização já é punitiva. Auditor exige metodologia, medição, plano de ação e reavaliação — não basta parágrafo no PGR. Setores na mira do MPT: teleatendimento, saúde, bancos e TI.
+- Outras mudanças trabalhistas de 2026: licença-paternidade de 20 dias (vigor desde março); trabalho em feriado exige convenção coletiva + lei municipal; NR-17 obriga orientação ergonômica formal no teletrabalho; Lei 15.455/2026 (trabalhadores resgatados).
+- STF em 26/08: julgamento do voto de qualidade no CARF (ADIs 6399, 6415 e 6403). Também na pauta de agosto: isenção a PCDs na reforma tributária e vínculo de trabalho em plataformas (uberização).]]></itunes:summary>
+      <itunes:author>Juliano</itunes:author>
+      <itunes:duration>0:09:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="false">boletim-2026-08-05</guid>
+      <link>https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-05.mp3</link>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-08-05.mp3" length="6985942" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
