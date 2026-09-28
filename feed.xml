@@ -19,6 +19,34 @@
       <itunes:category text="Management"/>
     </itunes:category>
     <item>
+      <title>Boletim Tributário e Trabalhista - 28/09/2026</title>
+      <description>A 9ª Vara Cível Federal de São Paulo concedeu mandado de segurança preventivo afastando a retenção de 10% sobre dividendos da Lei nº 15.270/2025 (noticiado em 25/09/2026) — a decisão vale apenas entre as partes, cabe recurso e não autoriza nenhuma outra empresa a parar de reter sem ordem judicial própria.
+Amanhã, 29/09/2026, entra em produção o item 3.2 da Nota Técnica eSocial S-1.3 nº 07/2026: nos eventos S-2410 e S-2416 o grupo {instPenMorte} deixa de ser exigido na transferência entre órgãos e na alteração de CPF, o campo {dtIniBeneficio} passa a aceitar benefício iniciado antes da obrigatoriedade dos eventos não periódicos e o {tpBeneficio} aceita o grupo [08] da Tabela 25 — sem alteração de XSD.
+A revisão da NT S-1.3 nº 07/2026 fechou o cronograma completo, e a etapa que atinge toda a carteira é **26/10/2026**, quando entram em produção as mudanças nos eventos S-2200 e S-2205, com criação de campos de local de trabalho e CBO; a produção restrita abre em 13/10.
+Em 23/11/2026 passa a valer a validação do CPF de dependente contra a base da Receita Federal e as regras de jornada, inclusive a compatibilidade do 12x36 — a limpeza de cadastro tem que começar agora, não em novembro.
+O TST fixou tese no Tema 91 dos IRR, em 24/09/2026: a prescrição trabalhista é exceção, deve ser alegada pela parte beneficiada e não pode ser reconhecida de ofício nem suscitada pela primeira vez em recurso ao TST; sobrevive apenas a prescrição intercorrente na execução (art. 11-A da CLT).
+30/09/2026 concentra a opção pelo Simples Nacional 2027 e a escolha entre regime único e regime regular de IBS/CBS, a DCTFWeb de agosto, as estimativas de IRPJ/CSLL, a DITR e a adesão aos Editais PGFN nº 6 e nº 8 (até 19h, sem prorrogação anunciada).
+Em 01/10/2026 começa a 2ª onda do Ato Conjunto RFB/CGIBS nº 4/2026 — campos de IBS e CBS obrigatórios na NFS-e em geral e na NFCom, sem rejeição até 31/12/2026 — e 26 municípios conveniados com a PGFN passam a inscrever e cobrar diretamente o ISS apurado no Simples.
+Erro na emissão de documento fiscal compromete o crédito de CBS do adquirente em 2027: no modelo novo o crédito nasce do documento fiscal, não do lançamento contábil, e a apuração assistida liberada pela Receita não substitui a revisão da classificação tributária no cadastro.
+A suspensão das sanções da NR-1 sobre riscos psicossociais foi prorrogada por 90 dias contados de 23/09/2026, indo até o fim de dezembro — o que está suspenso é a multa, não a obrigação de inventariar e gerenciar o risco no GRO/PGR.
+O cumprimento de exigência do INSS pode ser feito integralmente pelo Meu INSS, com prazo de 30 dias da ciência e anexos de até 5 MB por arquivo; documento ilegível não cumpre a exigência e o INSS não envia links em comunicação oficial.</description>
+      <itunes:summary>A 9ª Vara Cível Federal de São Paulo concedeu mandado de segurança preventivo afastando a retenção de 10% sobre dividendos da Lei nº 15.270/2025 (noticiado em 25/09/2026) — a decisão vale apenas entre as partes, cabe recurso e não autoriza nenhuma outra empresa a parar de reter sem ordem judicial própria.
+Amanhã, 29/09/2026, entra em produção o item 3.2 da Nota Técnica eSocial S-1.3 nº 07/2026: nos eventos S-2410 e S-2416 o grupo {instPenMorte} deixa de ser exigido na transferência entre órgãos e na alteração de CPF, o campo {dtIniBeneficio} passa a aceitar benefício iniciado antes da obrigatoriedade dos eventos não periódicos e o {tpBeneficio} aceita o grupo [08] da Tabela 25 — sem alteração de XSD.
+A revisão da NT S-1.3 nº 07/2026 fechou o cronograma completo, e a etapa que atinge toda a carteira é **26/10/2026**, quando entram em produção as mudanças nos eventos S-2200 e S-2205, com criação de campos de local de trabalho e CBO; a produção restrita abre em 13/10.
+Em 23/11/2026 passa a valer a validação do CPF de dependente contra a base da Receita Federal e as regras de jornada, inclusive a compatibilidade do 12x36 — a limpeza de cadastro tem que começar agora, não em novembro.
+O TST fixou tese no Tema 91 dos IRR, em 24/09/2026: a prescrição trabalhista é exceção, deve ser alegada pela parte beneficiada e não pode ser reconhecida de ofício nem suscitada pela primeira vez em recurso ao TST; sobrevive apenas a prescrição intercorrente na execução (art. 11-A da CLT).
+30/09/2026 concentra a opção pelo Simples Nacional 2027 e a escolha entre regime único e regime regular de IBS/CBS, a DCTFWeb de agosto, as estimativas de IRPJ/CSLL, a DITR e a adesão aos Editais PGFN nº 6 e nº 8 (até 19h, sem prorrogação anunciada).
+Em 01/10/2026 começa a 2ª onda do Ato Conjunto RFB/CGIBS nº 4/2026 — campos de IBS e CBS obrigatórios na NFS-e em geral e na NFCom, sem rejeição até 31/12/2026 — e 26 municípios conveniados com a PGFN passam a inscrever e cobrar diretamente o ISS apurado no Simples.
+Erro na emissão de documento fiscal compromete o crédito de CBS do adquirente em 2027: no modelo novo o crédito nasce do documento fiscal, não do lançamento contábil, e a apuração assistida liberada pela Receita não substitui a revisão da classificação tributária no cadastro.
+A suspensão das sanções da NR-1 sobre riscos psicossociais foi prorrogada por 90 dias contados de 23/09/2026, indo até o fim de dezembro — o que está suspenso é a multa, não a obrigação de inventariar e gerenciar o risco no GRO/PGR.
+O cumprimento de exigência do INSS pode ser feito integralmente pelo Meu INSS, com prazo de 30 dias da ciência e anexos de até 5 MB por arquivo; documento ilegível não cumpre a exigência e o INSS não envia links em comunicação oficial.</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-09-28.mp3</guid>
+      <enclosure url="https://juliano-bsantos.github.io/bt-6de75143c209af/audio/2026-09-28.mp3" length="8487464" type="audio/mpeg"/>
+      <itunes:author>Juliano B. Santos</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Boletim Tributário e Trabalhista - 25/09/2026</title>
       <description>O ministro André Mendonça prorrogou hoje, 25/09/2026, por mais 90 dias contados de 23/09, a suspensão das sanções da NR-1 sobre riscos psicossociais (ADPF 1.316) — a proteção vai até o fim de dezembro, o caso foi remetido ao Nusol para conciliação e a AGU tem 5 dias para complementar as informações sobre a remessa à Sejan; a obrigação de inventariar e gerenciar o risco no GRO/PGR nunca foi suspensa.
 A IN RFB nº 2.344/2026 (DOU 21/09/2026), que regulamenta a LC nº 235/2026, abre até 04/10/2026 a habilitação de créditos de PIS/Cofins de produtoras de etanol apurados até 31/08/2026 e escriturados na EFD-Contribuições, com limite global de R$ 750 milhões rateado pela produção de 2025 (dados da ANP).
